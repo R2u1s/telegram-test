@@ -3,9 +3,9 @@
 :root {
   /* colors */
 
-  --background-light: rgba(239, 239, 244, 1);
+  --background-light: white;
   --background-dark: rgba(15, 15, 15, 1);
-  --background-light-secondary: white;
+  --background-light-secondary: rgba(239, 239, 244, 1);
   --background-dark-secondary: rgba(33, 33, 33, 1);
   --background-light-label: rgba(0, 0, 0, 0.04);
   --background-dark-label: rgba(255, 255, 255, 0.08);
