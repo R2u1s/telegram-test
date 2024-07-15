@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@telegram-apps/react-router-integration": "^1.0.1",
     "@telegram-apps/sdk": "^1.0.0",
+    "@telegram-apps/sdk-react": "^1.1.2",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -48,5 +50,5 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "homepage": "https://r2u1s.github.io/telegram_test/"
+  "homepage": "https://r2u1s.github.io/telegram-test/"
 }
