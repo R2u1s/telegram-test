@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/telegram-test/static/css/main.de05b413.css",
-    "main.js": "/telegram-test/static/js/main.58ac1034.js",
+    "main.css": "/telegram-test/static/css/main.900d0131.css",
+    "main.js": "/telegram-test/static/js/main.1b315452.js",
     "static/js/605.cad103c9.chunk.js": "/telegram-test/static/js/605.cad103c9.chunk.js",
     "static/media/SFUIDisplay-Medium.woff": "/telegram-test/static/media/SFUIDisplay-Medium.691073e2b9ef80d5c702.woff",
     "static/media/SFUIDisplay-Bold.woff": "/telegram-test/static/media/SFUIDisplay-Bold.111df0192eebd73b0bdf.woff",
@@ -10,12 +10,12 @@
     "static/media/SFUIDisplay-Bold.woff2": "/telegram-test/static/media/SFUIDisplay-Bold.de06fd537f47d93309ef.woff2",
     "static/media/SFUIDisplay-Regular.woff2": "/telegram-test/static/media/SFUIDisplay-Regular.d5b1bd49ba459767871a.woff2",
     "index.html": "/telegram-test/index.html",
-    "main.de05b413.css.map": "/telegram-test/static/css/main.de05b413.css.map",
-    "main.58ac1034.js.map": "/telegram-test/static/js/main.58ac1034.js.map",
+    "main.900d0131.css.map": "/telegram-test/static/css/main.900d0131.css.map",
+    "main.1b315452.js.map": "/telegram-test/static/js/main.1b315452.js.map",
     "605.cad103c9.chunk.js.map": "/telegram-test/static/js/605.cad103c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de05b413.css",
-    "static/js/main.58ac1034.js"
+    "static/css/main.900d0131.css",
+    "static/js/main.1b315452.js"
   ]
 }
